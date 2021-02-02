@@ -9,7 +9,8 @@ sites:
   - name: Is a dev Page
     url: https://0xflotus.is-a.dev
     
-assignees: 0xflotus
+assignees: 
+  - 0xflotus
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
