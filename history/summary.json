@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/0xflotus.github.io",
     "slug": "personal-github-page",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 210,
     "timeDay": 200,
     "timeWeek": 230,
     "timeMonth": 214,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2021-06-08": 22
+      "2021-06-08": 31
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/0xflotus.is-a.dev",
     "slug": "is-a-dev-page",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 56,
     "timeDay": 75,
     "timeWeek": 76,
     "timeMonth": 75,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 9
     }
   }
 ]
