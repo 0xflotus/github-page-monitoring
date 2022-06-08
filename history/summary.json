@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 226,
-    "timeWeek": 235,
+    "timeDay": 202,
+    "timeWeek": 234,
     "timeMonth": 241,
     "timeYear": 224,
-    "dailyMinutesDown": {
-      "2021-06-08": 52
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Is a dev Page",
@@ -31,12 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 83,
-    "timeDay": 81,
-    "timeWeek": 97,
+    "timeDay": 72,
+    "timeWeek": 96,
     "timeMonth": 87,
     "timeYear": 83,
-    "dailyMinutesDown": {
-      "2021-06-08": 30
-    }
+    "dailyMinutesDown": {}
   }
 ]
