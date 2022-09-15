@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 188,
-    "timeWeek": 203,
-    "timeMonth": 221,
+    "timeDay": 184,
+    "timeWeek": 204,
+    "timeMonth": 220,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -22,19 +22,19 @@
     "url": "https://0xflotus.is-a.dev",
     "icon": "https://favicons.githubusercontent.com/0xflotus.is-a.dev",
     "slug": "is-a-dev-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 83,
-    "timeDay": 70,
+    "timeDay": 61,
     "timeWeek": 114,
     "timeMonth": 87,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2022-09-15": 0
+      "2022-09-15": 38
     }
   }
 ]
