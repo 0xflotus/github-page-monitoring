@@ -2,7 +2,7 @@
   {
     "name": "Personal Github Page",
     "url": "https://0xflotus.github.io",
-    "icon": "https://favicons.githubusercontent.com/0xflotus.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "personal-github-page",
     "status": "up",
     "uptime": "99.99%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 196,
-    "timeWeek": 207,
+    "timeDay": 186,
+    "timeWeek": 206,
     "timeMonth": 206,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -20,7 +20,7 @@
   {
     "name": "Is a dev Page",
     "url": "https://0xflotus.is-a.dev",
-    "icon": "https://favicons.githubusercontent.com/0xflotus.is-a.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/0xflotus.is-a.dev.ico",
     "slug": "is-a-dev-page",
     "status": "up",
     "uptime": "99.99%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 83,
-    "timeDay": 61,
-    "timeWeek": 70,
+    "timeDay": 58,
+    "timeWeek": 69,
     "timeMonth": 81,
     "timeYear": 83,
     "dailyMinutesDown": {
