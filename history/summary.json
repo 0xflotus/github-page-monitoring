@@ -4,9 +4,9 @@
     "url": "https://0xflotus.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "personal-github-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 275,
     "timeMonth": 230,
     "timeYear": 224,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-20": 0
+    }
   },
   {
     "name": "Is a dev Page",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 83,
-    "timeDay": 60,
+    "timeDay": 66,
     "timeWeek": 65,
     "timeMonth": 73,
     "timeYear": 83,
