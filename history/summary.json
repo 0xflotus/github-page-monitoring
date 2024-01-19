@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 145,
-    "timeWeek": 177,
+    "timeDay": 159,
+    "timeWeek": 178,
     "timeMonth": 192,
     "timeYear": 210,
-    "dailyMinutesDown": {
-      "2023-01-19": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Is a dev Page",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 74,
-    "timeDay": 49,
+    "timeDay": 55,
     "timeWeek": 66,
     "timeMonth": 73,
     "timeYear": 73,
