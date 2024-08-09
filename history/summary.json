@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 273,
+    "timeDay": 264,
     "timeWeek": 208,
     "timeMonth": 227,
     "timeYear": 201,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.is-a.dev.ico",
     "slug": "is-a-dev-page",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 69,
-    "timeDay": 93,
-    "timeWeek": 74,
+    "timeDay": 97,
+    "timeWeek": 75,
     "timeMonth": 77,
     "timeYear": 68,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-07": 18
+    }
   }
 ]
