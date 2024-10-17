@@ -4,19 +4,19 @@
     "url": "https://0xflotus.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "personal-github-page",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "88.02%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "99.61%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.96%",
     "time": 207,
-    "timeDay": 188,
-    "timeWeek": 226,
+    "timeDay": 199,
+    "timeWeek": 227,
     "timeMonth": 246,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-10-17": 173,
+      "2024-10-17": 198,
       "2024-05-07": 18
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://0xflotus.is-a.dev",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.is-a.dev.ico",
     "slug": "is-a-dev-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "87.99%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "86.28%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.96%",
     "time": 70,
-    "timeDay": 78,
+    "timeDay": 83,
     "timeWeek": 83,
     "timeMonth": 85,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2024-10-17": 173
+      "2024-10-17": 198
     }
   }
 ]
