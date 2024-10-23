@@ -4,11 +4,11 @@
     "url": "https://0xflotus.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/0xflotus.github.io.ico",
     "slug": "personal-github-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "92.91%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "99.27%",
+    "uptimeDay": "93.59%",
+    "uptimeWeek": "96.90%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "99.94%",
     "time": 219,
     "timeDay": 2597,
@@ -16,7 +16,7 @@
     "timeMonth": 376,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-10-23": 93,
+      "2024-10-23": 83,
       "2024-10-22": 31,
       "2024-10-17": 198,
       "2024-05-07": 18
@@ -29,9 +29,9 @@
     "slug": "is-a-dev-page",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "99.95%",
     "time": 71,
     "timeDay": 332,
@@ -39,7 +39,7 @@
     "timeMonth": 93,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2024-10-23": 33,
+      "2024-10-23": 24,
       "2024-10-22": 22,
       "2024-10-17": 198
     }
