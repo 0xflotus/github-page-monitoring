@@ -6,9 +6,9 @@
     "slug": "personal-github-page",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "93.59%",
-    "uptimeWeek": "96.90%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "96.80%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.94%",
     "time": 219,
     "timeDay": 2597,
@@ -16,7 +16,7 @@
     "timeMonth": 376,
     "timeYear": 219,
     "dailyMinutesDown": {
-      "2024-10-23": 83,
+      "2024-10-23": 94,
       "2024-10-22": 31,
       "2024-10-17": 198,
       "2024-05-07": 18
